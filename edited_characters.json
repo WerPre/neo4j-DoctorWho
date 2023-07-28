@@ -1,0 +1,649 @@
+[
+  {
+    "name": "Doctor",
+    "species": [
+      "Timelord"
+    ],
+    "regenerations": [
+      {
+        "actor/actress": "William Hartnell",
+        "year": "1963"
+      },
+      {
+        "actor/actress": "Patrick Troughton",
+        "year": "1966"
+      },
+      {
+        "actor/actress": "Jon Pertwee",
+        "year": "1970"
+      },
+      {
+        "actor/actress": "Tom Baker",
+        "year": "1974"
+      },
+      {
+        "actor/actress": "Peter Davison",
+        "year": "1981"
+      },
+      {
+        "actor/actress": "Colin Baker",
+        "year": "1984"
+      },
+      {
+        "actor/actress": "Sylvester McCoy",
+        "year": "1987"
+      },
+      {
+        "actor/actress": "Paul McGann",
+        "year": "1996"
+      },
+      {
+        "actor/actress": "John Hurt",
+        "year": "2013"
+      },
+      {
+        "actor/actress": "Christopher Eccleston",
+        "year": "2005"
+      },
+      {
+        "actor/actress": "David Tennant",
+        "year": "2005"
+      },
+      {
+        "actor/actress": "Matt Smith",
+        "year": "2010"
+      },
+      {
+        "actor/actress": "Peter Capaldi",
+        "year": "2013"
+      }
+    ],
+    "lovers": [
+      [
+        "Rose Tyler",
+        "River Song"
+      ]
+    ],
+    "belonings": [
+      "Tardis", 
+      "Sonic Screwdriver"
+    ]
+  },
+  {
+    "enemies": [
+      {
+        "name": "Rassilon",
+        "planet": "Gallifrey",
+        "species": [
+          "Timelord"
+        ]
+      },
+      {
+        "name": "Master",
+        "planet": "Gallifrey",
+        "regenerations": [
+          {
+            "actor/actress": "Roger Delgado"
+          },
+          {
+            "actor/actress": "Peter Pratt"
+          },
+          {
+            "actor/actress": "Geoffrey Beevers"
+          },
+          {
+            "actor/actress": "Anthony Ainley"
+          },
+          {
+            "actor/actress": "Gordon Tipple"
+          },
+          {
+            "actor/actress": "Eric Roberts"
+          },
+          {
+            "actor/actress": "Derek Jacobi"
+          },
+          {
+            "actor/actress": "John Simm"
+          }
+        ],
+        "belonings": [
+          "Tardis"
+        ],
+        "species": [
+          "Timelord"
+        ]
+      },
+      {
+        "name": "Rani",
+        "planet": "Gallifrey",
+        "belonings": [
+          "Tardis"
+        ],
+        "species": [
+          "Timelord"
+        ]
+      },
+      {
+        "name": "Meddling Monk",
+        "planet": "Gallifrey",
+        "belonings": [
+          "Tardis"
+        ],
+        "species": [
+          "Timelord"
+        ]
+      },
+      {
+        "name": "Helen A",
+        "planet": "Terra Alpha",
+        "species": [
+          "Human"
+        ]
+      },
+      {
+        "name": "Abzorbaloff",
+        "planet": "Clom",
+        "species": [
+          "Abrobvian"
+        ]
+      },
+      {
+        "name": "Beast",
+        "species": [
+          "Devil"
+        ]
+      },
+      {
+        "name": "Black Guardian"
+      },
+      {
+        "name": "Bok",
+        "species": [
+          "Gargoyle"
+        ]
+      },
+      {
+        "name": "Cassandra",
+        "planet": "Earth",
+        "species": [
+          "Human"
+        ]
+      },
+      {
+        "name": "Cybercontroller",
+        "planet": "Mondas",
+        "species": [
+          "Cyberman"
+        ]
+      },
+      {
+        "name": "Cyberleader",
+        "planet": "Mondas",
+        "species": [
+          "Cyberman"
+        ]
+      },
+      {
+        "name": "Daemon"
+      },
+      {
+        "name": "Dalek Caan",
+        "planet": "Skaro",
+        "species": [
+          "Dalek"
+        ]
+      },
+      {
+        "name": "Dalek Jast",
+        "planet": "Skaro",
+        "species": [
+          "Dalek"
+        ]
+      },
+      {
+        "name": "Dalek Sec",
+        "planet": "Skaro",
+        "species": [
+          "Dalek"
+        ]
+      },
+      {
+        "name": "Dalek Thay",
+        "planet": "Skaro",
+        "species": [
+          "Dalek"
+        ]
+      },
+      {
+        "name": "Davros",
+        "planet": "Skaro",
+        "species": [
+          "Kaled"
+        ]
+      },
+      {
+        "name": "Destroyer"
+      },
+      {
+        "name": "Eldrad",
+        "planet": "Kastria",
+        "species": [
+          "Kastrian"
+        ]
+      },
+      {
+        "name": "Empress of Racnoss"
+      },
+      {
+        "name": "Fendahl"
+      },
+      {
+        "name": "General Staal",
+        "planet": "Sontar",
+        "species": [
+          "Sontaran"
+        ]
+      },
+      {
+        "name": "Grand Marshall Skaldak",
+        "planet": "Mars",
+        "species": [
+          "Ice Warrior"
+        ]
+      },
+      {
+        "name": "K1 Robot"
+      },
+      {
+        "name": "Linx",
+        "planet": "Sontar",
+        "species": [
+          "Sontaran"
+        ]
+      },
+      {
+        "name": "Miss Hartigan",
+        "planet": "Earth",
+        "species": [
+          "Human",
+          "Cyberman"
+        ]
+      },
+      {
+        "name": "Linx",
+        "planet": "Sontar",
+        "species": [
+          "Sontaran"
+        ]
+      },
+      {
+        "name": "Loch Ness Monster",
+        "species": [
+          "Skarasen"
+        ]
+      },
+      {
+        "name": "Morbius",
+        "species": [
+          "Timelord"
+        ]
+      },
+      {
+        "name": "Omega",
+        "species": [
+          "Timelord"
+        ]
+      },
+      {
+        "name": "Ogron"
+      },
+      {
+        "name": "Pyrovile"
+      },
+      {
+        "name": "Reaper"
+      },
+      {
+        "name": "Scaroth",
+        "species": [
+          "Jagaroth"
+        ]
+      },
+      {
+        "name": "Stor",
+        "planet": "Sontar",
+        "species": [
+          "Sontaran"
+        ]
+      },
+      {
+        "name": "Styre",
+        "planet": "Sontar",
+        "species": [
+          "Sontaran"
+        ]
+      },
+      {
+        "name": "Sutekh",
+        "species": [
+          "Osiron"
+        ]
+      },
+      {
+        "name": "Terileptils"
+      },
+      {
+        "name": "Yartek",
+        "species": [
+          "Voord"
+        ]
+      },
+      {
+        "name": "Darla von Karlsen",
+        "species": [
+          "Human",
+          "Dalek"
+        ]
+      },
+      {
+        "name": "Harvey",
+        "species": [
+          "Human",
+          "Dalek"
+        ]
+      },
+      {
+        "name": "Solomon",
+        "species": [
+          "Humanoid"
+        ]
+      }
+    ]
+  },
+  {
+    "allies": [
+      {
+        "name": "Riddell"
+      },
+      {
+        "name": "Brian Williams",
+        "firstAppearedIn": {
+          "number": "226",
+          "nameOfEpisode": "Asylum of the Daleks"
+        }
+      },
+      {
+        "name": "Queen Nefertiti"
+      },
+      {
+        "name": "River Song",
+        "childOf": [
+          "Amy Pond",
+          "Rory Williams"
+        ]
+      },
+      {
+        "name": "Sergeant Benton",
+        "planet": "Earth"
+      },
+      {
+        "name": "Mike Yates",
+        "planet": "Earth"
+      },
+      {
+        "name": "Brigadier Lethbridge-Stewart",
+        "planet": "Earth",
+        "firstAppearedIn": {
+          "number": "41",
+          "nameOfEpisode": "The Web of Fear"
+        },
+        "diedIn": {
+          "number": "223",
+          "nameOfEpisode": "Closing Time"
+        }
+      },
+      {
+        "name": "Professor Travers",
+        "planet": "Earth"
+      },
+      {
+        "name": "Alpha Centauri",
+        "planet": "Earth"
+      },
+      {
+        "name": "Duggan",
+        "planet": "Earth"
+      },
+      {
+        "name": "Richard Mace",
+        "planet": "Earth"
+      },
+      {
+        "name": "Chang Lee",
+        "planet": "Earth"
+      },
+      {
+        "name": "Oswin Oswald"
+      },
+      {
+        "name": "Clara Oswin Oswald"
+      },
+      {
+        "name": "War Doctor",
+        "firstAppearedIn": {
+          "number": "239",
+          "nameOfEpisode": "The Name of the Doctor"
+        },
+        "actor/actress": "John Hurt"
+      }
+    ]
+  },
+  {
+    "companions": [
+      {
+        "name": "Susan Foreman",
+        "planet": "Gallifrey"
+      },
+      {
+        "name": "Romana",
+        "planet": "Gallifrey"
+      },
+      {
+        "name": "Barbara Wright",
+        "planet": "Earth"
+      },
+      {
+        "name": "Ian Chesterton",
+        "planet": "Earth"
+      },
+      {
+        "name": "Vicki",
+        "planet": "Earth"
+      },
+      {
+        "name": "Steven Taylor",
+        "planet": "Earth"
+      },
+      {
+        "name": "Katarina",
+        "planet": "Earth"
+      },
+      {
+        "name": "Sara Kingdom",
+        "planet": "Earth"
+      },
+      {
+        "name": "Dodo Chaplet",
+        "planet": "Earth"
+      },
+      {
+        "name": "Polly",
+        "planet": "Earth"
+      },
+      {
+        "name": "Ben Jackson",
+        "planet": "Earth"
+      },
+      {
+        "name": "Jamie McCrimmon",
+        "planet": "Earth"
+      },
+      {
+        "name": "Hamish Wilson",
+        "planet": "Earth"
+      },
+      {
+        "name": "Victoria Waterfield",
+        "planet": "Earth"
+      },
+      {
+        "name": "Zoe Heriot",
+        "planet": "Earth"
+      },
+      {
+        "name": "Liz Shaw",
+        "planet": "Earth"
+      },
+      {
+        "name": "Jo Grant",
+        "planet": "Earth"
+      },
+      {
+        "name": "Sarah Jane Smith",
+        "planet": "Earth"
+      },
+      {
+        "name": "Harry Sullivan",
+        "planet": "Earth"
+      },
+      {
+        "name": "Leela"
+      },
+      {
+        "name": "K9"
+      },
+      {
+        "name": "Adric",
+        "planet": "Alzarius"
+      },
+      {
+        "name": "Nyssa"
+      },
+      {
+        "name": "Tegan Jovanka",
+        "planet": "Earth"
+      },
+      {
+        "name": "Vislor Turlough",
+        "planet": "Trion"
+      },
+      {
+        "name": "Kamelion",
+        "planet": "Xeriphas"
+      },
+      {
+        "name": "Peri Brown",
+        "planet": "Earth"
+      },
+      {
+        "name": "Melanie Bush",
+        "planet": "Earth"
+      },
+      {
+        "name": "Ace",
+        "planet": "Earth"
+      },
+      {
+        "name": "Grace Holloway",
+        "planet": "Earth"
+      },
+      {
+        "name": "Rose Tyler",
+        "planet": "Earth"
+      },
+      {
+        "name": "Adam Mitchell",
+        "planet": "Earth"
+      },
+      {
+        "name": "Jack Harkness"
+      },
+      {
+        "name": "Mickey Smith",
+        "planet": "Earth"
+      },
+      {
+        "name": "Donna Noble",
+        "planet": "Earth"
+      },
+      {
+        "name": "Martha Jones",
+        "planet": "Earth"
+      },
+      {
+        "name": "Astrid Peth",
+        "planet": "Sto"
+      },
+      {
+        "name": "Jackson Lake",
+        "planet": "Earth"
+      },
+      {
+        "name": "Rosita Farisi",
+        "planet": "Earth"
+      },
+      {
+        "name": "Lady Christina de Souza",
+        "planet": "Earth"
+      },
+      {
+        "name": "Adelaide Brooke",
+        "planet": "Earth"
+      },
+      {
+        "name": "Craig Owens",
+        "planet": "Earth"
+      },
+      {
+        "name": "Wilfred Mott",
+        "planet": "Earth"
+      },
+      {
+        "name": "Amy Pond",
+        "planet": "Earth",
+        "firstAppearedIn": {
+          "number": "203",
+          "nameOfEpisode": "The Eleventh Hour"
+        },
+        "diedIn": {
+          "number": "229",
+          "nameOfEpisode": "The Power of Three"
+        }
+      },
+      {
+        "name": "Rory Williams",
+        "planet": "Earth",
+        "childOf":[
+          "Brian Williams"
+        ],
+        "firstAppearedIn": {
+          "number": "203",
+          "nameOfEpisode": "The Eleventh Hour"
+        },
+        "diedIn": {
+          "number": "229",
+          "nameOfEpisode": "The Power of Three"
+        }
+      },
+      {
+        "name": "Clara Oswald",
+        "planet": "Earth",
+        "firstAppearedIn": {
+          "number": "226",
+          "nameOfEpisode": "Asylum of the Daleks"
+        }
+      }
+    ]
+  }
+]

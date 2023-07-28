@@ -1,0 +1,3780 @@
+[
+  {
+    "special_episodes": [
+      {
+        "episode": "129",
+        "title": "The Five Doctors",
+        "companion": [
+          "Tegan Jovanka",
+          "Vislor Turlough",
+          "Susan Foreman",
+          "Sarah Jane Smith",
+          "Romana"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Richard Hurndall",
+          "William Hartnell",
+          "Patrick Troughton",
+          "Jon Pertwee",
+          "Tom Baker",
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "156",
+        "title": "Doctor Who",
+        "companion": [
+          "Grace Holloway"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "Paul McGann",
+          "Sylvester McCoy"
+        ]
+      },
+      {
+        "episode": "167",
+        "title": "The Christmas Invasion",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "enemySpecies": [
+          "Sycorax"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "178",
+        "title": "The Runaway Bride",
+        "companion": [
+          "Donna Noble"
+        ],
+        "enemy": [
+          "Empress of Racnoss"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "188",
+        "title": "Voyage of the Damned",
+        "companion": [
+          "Astrid Peth"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "213",
+        "title": "A Christmas Carol",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "enemy": [
+          "Kazran Sardick"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      }
+    ]
+  },
+  {
+    "season35": [
+      {
+        "episode": "242",
+        "title": "Deep Breath",
+        "companion": [
+          "Clara Oswald"
+        ],
+        "enemy": [
+          "Half-Face Man"
+        ],
+        "doctor": [
+          "Peter Capaldi",
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "243",
+        "title": "Into the Dalek",
+        "companion": [
+          "Clara Oswald"
+        ],
+        "enemy": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Peter Capaldi"
+        ]
+      },
+      {
+        "episode": "244",
+        "title": "Robot of Sherwood",
+        "companion": [
+          "Clara Oswald"
+        ],
+        "enemy": [
+          "Sheriff of Nottingham"
+        ],
+        "allies": [
+          "Robin Hood"
+        ],
+        "doctor": [
+          "Peter Capaldi"
+        ]
+      }
+    ]
+  },
+  {
+    "season34": [
+      {
+        "episode": "232",
+        "title": "The Bells of Saint John",
+        "companion": [
+          "Clara Oswald"
+        ],
+        "enemy": [
+          "The Great Intelligence"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "233",
+        "title": "The Rings of Akhaten",
+        "companion": [
+          "Clara Oswald"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "234",
+        "title": "The Cold War",
+        "companion": [
+          "Clara Oswald"
+        ],
+        "enemy": [
+          "Grand Marshall Skaldak"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "235",
+        "title": "Hide",
+        "companion": [
+          "Clara Oswald"
+        ],
+        "allies": [
+          "Professor Alec Palmer",
+          "Emma Grayling"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "236",
+        "title": "Journey to the Centre of the TARDIS",
+        "companion": [
+          "Clara Oswald"
+        ],
+        "enemy": [
+          "Time Zombie"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "237",
+        "title": "The Crimson Horror",
+        "companion": [
+          "Clara Oswald"
+        ],
+        "enemy": [
+          "Mrs Gillyflower"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "238",
+        "title": "Nightmare in Silver",
+        "companion": [
+          "Clara Oswald"
+        ],
+        "enemySpecies": [
+          "Cyberman"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "239",
+        "title": "The Name of the Doctor",
+        "companion": [
+          "Clara Oswald",
+          "River Song"
+        ],
+        "allies": [
+          "Madame Vastra",
+          "Jenny Flint",
+          "Strax"
+        ],
+        "enemy": [
+          "The Great Intelligence"
+        ],
+        "others": [
+          "War Doctor"
+        ],
+        "doctor": [
+          "Matt Smith",
+          "John Hurt"
+        ]
+      },
+      {
+        "episode": "Special",
+        "title": "The Night of the Doctor",
+        "allies": [
+          "Sisterhood of Karn"
+        ],
+        "others": [
+          "War Doctor"
+        ],
+        "doctor": [
+          "Paul McGann",
+          "John Hurt"
+        ]
+      },
+      {
+        "episode": "240",
+        "title": "The Day of the Doctor",
+        "companion": [
+          "Clara Oswald"
+        ],
+        "enemySpecies": [
+          "Zygon"
+        ],
+        "others": [
+          "War Doctor"
+        ],
+        "doctor": [
+          "David Tennant",
+          "Matt Smith",
+          "John Hurt"
+        ]
+      },
+      {
+        "episode": "241",
+        "title": "The Time of the Doctor",
+        "companion": [
+          "Clara Oswald"
+        ],
+        "allies": [
+          "Tasha Lem"
+        ],
+        "enemySpecies": [
+          "Cyberman",
+          "Dalek"
+        ],
+        "alliedSpecies": [
+          "The Silence"
+        ],
+        "others": [
+          "War Doctor"
+        ],
+        "doctor": [
+          "Matt Smith",
+          "Peter Capaldi"
+        ]
+      }
+    ]
+  },
+  {
+    "season33": [
+      {
+        "episode": "225",
+        "title": "The Doctor, The Widow, and The Wardrobe",
+        "alliedSpecies": [
+          "Human"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "226",
+        "title": "Asylum of the Daleks",
+        "allies": [
+          "Oswin Oswald"
+        ],
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "enemy": [
+          "Darla von Karlsen",
+          "Harvey"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "227",
+        "title": "Dinosaurs on a Spaceship",
+        "allies": [
+          "Queen Nefertiti",
+          "Riddell",
+          "Brian Williams"
+        ],
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "enemy": [
+          "Solomon"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "228",
+        "title": "A Town Called Mercy",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "others": [
+          "Gunslinger",
+          "Kahler-Jex"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "229",
+        "title": "The Power of Three",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "enemy": [
+          "Shakri"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "230",
+        "title": "The Angels Take Manhattan",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "enemySpecies": [
+          "Weeping Angel"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "231",
+        "title": "The Snowmen",
+        "companion": [
+          "Clara Oswald"
+        ],
+        "enemy": [
+          "The Great Intelligence"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      }
+    ]
+  },
+  {
+    "season32": [
+      {
+        "episode": "214a",
+        "title": "The Impossible Astronaut",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams",
+          "River Song"
+        ],
+        "allies": [
+          "Richard Nixon",
+          "Canton Everett Delaware III"
+        ],
+        "enemySpecies": [
+          "The Silence"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "214b",
+        "title": "Day of the Moon",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams",
+          "River Song"
+        ],
+        "enemySpecies": [
+          "The Silence"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "215",
+        "title": "The Curse of the Black Spot",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "allies": [
+          "Captain Avery"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "216",
+        "title": "The Doctor's Wife",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "enemy": [
+          "House"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "217",
+        "title": "The Rebel Flesh",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "217",
+        "title": "The Almost People",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "218",
+        "title": "A Good Man Goes to War",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams",
+          "River Song"
+        ],
+        "allies": [
+          "Commander Strax",
+          "Madame Vastra",
+          "Jenny",
+          "Dorium Maldovar"
+        ],
+        "alliedSpecies": [
+          "Judoon",
+          "Silurian"
+        ],
+        "enemySpecies": [
+          "Cyberman"
+        ],
+        "enemy": [
+          "Madame Kovarian"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "219",
+        "title": "Let's Kill Hitler!",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "enemy": [
+          "River Song"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "220",
+        "title": "Night Terrors",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "allies": [
+          "Alex"
+        ],
+        "enemySpecies": [
+          "Peg Dolls"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "221",
+        "title": "The Girl Who Waited",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "enemySpecies": [
+          "Handbots"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "222",
+        "title": "The God Complex",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "enemy": [
+          "Minotaur"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "223",
+        "title": "Closing Time",
+        "companion": [
+          "Craig Owens"
+        ],
+        "enemySpecies": [
+          "Cyberman"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "224",
+        "title": "The Wedding of River Song",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams",
+          "River Song"
+        ],
+        "allies": [
+          "Winston Churchill",
+          "Charles Dickens",
+          "Dorium Maldovar"
+        ],
+        "enemySpecies": [
+          "The Silence",
+          "Dalek"
+        ],
+        "enemy": [
+          "Madame Kovarian"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      }
+    ]
+  },
+  {
+    "season31": [
+      {
+        "episode": "199",
+        "title": "The Next Doctor",
+        "companion": [
+          "Jackson Lake",
+          "Rosita Farisi"
+        ],
+        "enemy": [
+          "Miss Hartigan"
+        ],
+        "enemySpecies": [
+          "Cyberman"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "200",
+        "title": "Planet of the Dead",
+        "companion": [
+          "Lady Christina de Souza"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "201",
+        "title": "The Waters of Mars",
+        "companion": [
+          "Adelaide Brooke"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "202",
+        "title": "The End of Time",
+        "companion": [
+          "Wilfred Mott"
+        ],
+        "enemy": [
+          "Master",
+          "Lord President"
+        ],
+        "doctor": [
+          "David Tennant",
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "203",
+        "title": "The Eleventh Hour",
+        "companion": [
+          "Amy Pond"
+        ],
+        "enemy": [
+          "Prisoner Zero"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "204",
+        "title": "The Beast Below",
+        "companion": [
+          "Amy Pond"
+        ],
+        "enemy": [
+          "Prisoner Zero"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "206",
+        "title": "Victory of the Daleks",
+        "companion": [
+          "Amy Pond"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "206",
+        "title": "The Time of Angels",
+        "companion": [
+          "Amy Pond"
+        ],
+        "enemySpecies": [
+          "Weeping Angel"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "206",
+        "title": "Flesh and Stone",
+        "companion": [
+          "Amy Pond"
+        ],
+        "enemySpecies": [
+          "Weeping Angel"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "207",
+        "title": "The Vampires of Venice",
+        "companion": [
+          "Amy Pond"
+        ],
+        "enemy": [
+          "Signora Calvierri"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "208",
+        "title": "Amy's Choice",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "enemySpecies": [
+          "Eknodine"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "209",
+        "title": "The Hungry Earth",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "enemySpecies": [
+          "Silurian"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "209",
+        "title": "Cold Blood",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "enemySpecies": [
+          "Silurian"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "210",
+        "title": "Vincent and the Doctor",
+        "companion": [
+          "Amy Pond"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "211",
+        "title": "The Lodger",
+        "companion": [
+          "Amy Pond"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "212",
+        "title": "The Pandorica Opens",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "enemySpecies": [
+          "Dalek",
+          "Auton",
+          "Cyberman",
+          "Sontaran",
+          "Judoon",
+          "Sycorax",
+          "Hoix",
+          "Silurian",
+          "Roboform"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      },
+      {
+        "episode": "212",
+        "title": "The Big Bang",
+        "companion": [
+          "Amy Pond",
+          "Rory Williams"
+        ],
+        "doctor": [
+          "Matt Smith"
+        ]
+      }
+    ]
+  },
+  {
+    "season30": [
+      {
+        "episode": "189",
+        "title": "Partners in Crime",
+        "companion": [
+          "Donna Noble"
+        ],
+        "enemy": [
+          "Miss Foster"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "190",
+        "title": "The Fires of Pompeii",
+        "companion": [
+          "Donna Noble"
+        ],
+        "enemy": [
+          "Pyrovile"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "191",
+        "title": "Planet of the Ood",
+        "companion": [
+          "Donna Noble"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "192",
+        "title": "The Sontaran Stratagem",
+        "companion": [
+          "Donna Noble",
+          "Martha Jones"
+        ],
+        "enemy": [
+          "General Staal"
+        ],
+        "enemySpecies": [
+          "Sontaran"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "192",
+        "title": "The Poison Sky",
+        "companion": [
+          "Donna Noble",
+          "Martha Jones"
+        ],
+        "enemy": [
+          "General Staal"
+        ],
+        "enemySpecies": [
+          "Sontaran"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "193",
+        "title": "The Doctor's Daughter",
+        "companion": [
+          "Donna Noble",
+          "Martha Jones"
+        ],
+        "enemy": [
+          "General Cobb"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "194",
+        "title": "The Unicorn and the Wasp",
+        "companion": [
+          "Donna Noble"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "195",
+        "title": "Silence in the Library",
+        "companion": [
+          "Donna Noble",
+          "River Song"
+        ],
+        "enemySpecies": [
+          "Vashta Nerada"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "195",
+        "title": "Forest of the Dead",
+        "companion": [
+          "Donna Noble",
+          "River Song"
+        ],
+        "enemySpecies": [
+          "Vashta Nerada"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "196",
+        "title": "Midnight",
+        "companion": [
+          "Donna Noble"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "197",
+        "title": "Turn Left",
+        "companion": [
+          "Donna Noble",
+          "Rose Tyler"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "198",
+        "title": "The Stolen Earth",
+        "companion": [
+          "Donna Noble",
+          "Rose Tyler",
+          "Martha Jones",
+          "Jack Harkness",
+          "Sarah Jane Smith"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "198",
+        "title": "Journey's End",
+        "companion": [
+          "Donna Noble",
+          "Rose Tyler",
+          "Martha Jones",
+          "Jack Harkness",
+          "Sarah Jane Smith",
+          "K9"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      }
+    ]
+  },
+  {
+    "season29": [
+      {
+        "episode": "179",
+        "title": "Smith and Jones",
+        "companion": [
+          "Martha Jones"
+        ],
+        "enemySpecies": [
+          "Plasmavore"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "180",
+        "title": "The Shakespeare Code",
+        "companion": [
+          "Martha Jones"
+        ],
+        "enemySpecies": [
+          "Carrionite"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "181",
+        "title": "Gridlock",
+        "companion": [
+          "Martha Jones"
+        ],
+        "enemySpecies": [
+          "Macra"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "182",
+        "title": "Daleks in Manhattan",
+        "companion": [
+          "Martha Jones"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "182",
+        "title": "Evolution of the Daleks",
+        "companion": [
+          "Martha Jones"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "183",
+        "title": "The Lazarus Experiment",
+        "companion": [
+          "Martha Jones"
+        ],
+        "enemy": [
+          "Lazarus"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "184",
+        "title": "42",
+        "companion": [
+          "Martha Jones"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "185",
+        "title": "Human Nature",
+        "companion": [
+          "Martha Jones"
+        ],
+        "enemy": [
+          "Family of Blood"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "185",
+        "title": "Family of Blood",
+        "companion": [
+          "Martha Jones"
+        ],
+        "enemy": [
+          "Family of Blood"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "186",
+        "title": "Blink",
+        "companion": [
+          "Martha Jones"
+        ],
+        "enemySpecies": [
+          "Weeping Angel"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "187",
+        "title": "Utopia",
+        "companion": [
+          "Martha Jones",
+          "Jack Harkness"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "187",
+        "title": "The Sound of Drums",
+        "companion": [
+          "Martha Jones",
+          "Jack Harkness"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "187",
+        "title": "Last of the Time Lords",
+        "companion": [
+          "Martha Jones",
+          "Jack Harkness"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      }
+    ]
+  },
+  {
+    "season28": [
+      {
+        "episode": "168",
+        "title": "New Earth",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "169",
+        "title": "Tooth and Claw",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "170",
+        "title": "School Reunion",
+        "companion": [
+          "Rose Tyler",
+          "Mickey Smith",
+          "Sarah Jane Smith",
+          "K9"
+        ],
+        "enemySpecies": [
+          "Krillitane"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "171",
+        "title": "The Girl in the Fireplace",
+        "companion": [
+          "Rose Tyler",
+          "Mickey Smith"
+        ],
+        "enemySpecies": [
+          "Clockwork Android"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "172",
+        "title": "Rise of the Cybermen",
+        "companion": [
+          "Rose Tyler",
+          "Mickey Smith"
+        ],
+        "enemySpecies": [
+          "Cyberman"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "172",
+        "title": "The Age of Steel",
+        "companion": [
+          "Rose Tyler",
+          "Mickey Smith"
+        ],
+        "enemySpecies": [
+          "Cyberman"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "173",
+        "title": "The Idiot's Lantern",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "enemy": [
+          "The Wire"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "174",
+        "title": "The Impossible Planet",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "enemy": [
+          "Beast"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "174",
+        "title": "The Satan Pit",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "enemy": [
+          "Beast"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "175",
+        "title": "Love & Monsters",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "enemy": [
+          "Abzorbaloff"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "176",
+        "title": "Fear Her",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "177",
+        "title": "Army of Ghosts",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "others": [
+          "Adeola Oshodi"
+        ],
+        "enemySpecies": [
+          "Cyberman",
+          "Dalek"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      },
+      {
+        "episode": "177",
+        "title": "Doomsday",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "enemySpecies": [
+          "Cyberman",
+          "Dalek"
+        ],
+        "doctor": [
+          "David Tennant"
+        ]
+      }
+    ]
+  },
+  {
+    "season27": [
+      {
+        "episode": "157",
+        "title": "Rose",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "enemySpecies": [
+          "Auton"
+        ],
+        "doctor": [
+          "Christopher Eccleston"
+        ]
+      },
+      {
+        "episode": "158",
+        "title": "The End of the World",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "enemy": [
+          "Cassandra"
+        ],
+        "doctor": [
+          "Christopher Eccleston"
+        ]
+      },
+      {
+        "episode": "159",
+        "title": "The Unquiet Dead",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "enemy": [
+          "Gabriel Sneed"
+        ],
+        "doctor": [
+          "Christopher Eccleston"
+        ]
+      },
+      {
+        "episode": "160",
+        "title": "Aliens of London",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "enemySpecies": [
+          "Slitheen"
+        ],
+        "doctor": [
+          "Christopher Eccleston"
+        ]
+      },
+      {
+        "episode": "160",
+        "title": "World War Three",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "enemySpecies": [
+          "Slitheen"
+        ],
+        "doctor": [
+          "Christopher Eccleston"
+        ]
+      },
+      {
+        "episode": "161",
+        "title": "Dalek",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Christopher Eccleston"
+        ]
+      },
+      {
+        "episode": "162",
+        "title": "The Long Game",
+        "enemy": [
+          "The Editor"
+        ],
+        "companion": [
+          "Rose Tyler"
+        ],
+        "doctor": [
+          "Christopher Eccleston"
+        ]
+      },
+      {
+        "episode": "163",
+        "title": "Father's Day",
+        "companion": [
+          "Rose Tyler"
+        ],
+        "doctor": [
+          "Christopher Eccleston"
+        ]
+      },
+      {
+        "episode": "164",
+        "title": "The Empty Child",
+        "companion": [
+          "Rose Tyler",
+          "Jack Harkness"
+        ],
+        "doctor": [
+          "Christopher Eccleston"
+        ]
+      },
+      {
+        "episode": "164",
+        "title": "The Doctor Dances",
+        "companion": [
+          "Rose Tyler",
+          "Jack Harkness"
+        ],
+        "doctor": [
+          "Christopher Eccleston"
+        ]
+      },
+      {
+        "episode": "165",
+        "title": "Boom Town",
+        "companion": [
+          "Rose Tyler",
+          "Jack Harkness"
+        ],
+        "enemySpecies": [
+          "Slitheen"
+        ],
+        "doctor": [
+          "Christopher Eccleston"
+        ]
+      },
+      {
+        "episode": "166",
+        "title": "Bad Wolf",
+        "companion": [
+          "Rose Tyler",
+          "Jack Harkness"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Christopher Eccleston"
+        ]
+      },
+      {
+        "episode": "166",
+        "title": "The Parting of the Ways",
+        "companion": [
+          "Rose Tyler",
+          "Jack Harkness"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Christopher Eccleston",
+          "David Tennant"
+        ]
+      }
+    ]
+  },
+  {
+    "season26": [
+      {
+        "episode": "152",
+        "title": "Battlefield",
+        "companion": [
+          "Ace"
+        ],
+        "doctor": [
+          "Sylvester McCoy"
+        ]
+      },
+      {
+        "episode": "153",
+        "title": "Ghost Light",
+        "companion": [
+          "Ace"
+        ],
+        "enemy": [
+          "Josiah Samuel Smith"
+        ],
+        "doctor": [
+          "Sylvester McCoy"
+        ]
+      },
+      {
+        "episode": "154",
+        "title": "The Curse of Fenric",
+        "companion": [
+          "Ace"
+        ],
+        "enemy": [
+          "Fenric"
+        ],
+        "doctor": [
+          "Sylvester McCoy"
+        ]
+      },
+      {
+        "episode": "155",
+        "title": "Survival",
+        "companion": [
+          "Ace"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "Sylvester McCoy"
+        ]
+      }
+    ]
+  },
+  {
+    "season25": [
+      {
+        "episode": "148",
+        "title": "Remembrance of the Daleks",
+        "companion": [
+          "Ace"
+        ],
+        "enemy": [
+          "Davros"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Sylvester McCoy"
+        ]
+      },
+      {
+        "episode": "149",
+        "title": "The Happiness Patrol",
+        "companion": [
+          "Ace"
+        ],
+        "enemy": [
+          "Helen A"
+        ],
+        "doctor": [
+          "Sylvester McCoy"
+        ]
+      },
+      {
+        "episode": "150",
+        "title": "Silver Nemesis",
+        "companion": [
+          "Ace"
+        ],
+        "enemySpecies": [
+          "Cyberman"
+        ],
+        "doctor": [
+          "Sylvester McCoy"
+        ]
+      },
+      {
+        "episode": "151",
+        "title": "The Greatest Show in the Galaxy",
+        "companion": [
+          "Ace"
+        ],
+        "doctor": [
+          "Sylvester McCoy"
+        ]
+      }
+    ]
+  },
+  {
+    "season24": [
+      {
+        "episode": "144",
+        "title": "Time and the Rani",
+        "companion": [
+          "Melanie Bush"
+        ],
+        "enemy": [
+          "Rani"
+        ],
+        "doctor": [
+          "Colin Baker",
+          "Sylvester McCoy"
+        ]
+      },
+      {
+        "episode": "145",
+        "title": "Paradise Towers",
+        "companion": [
+          "Melanie Bush"
+        ],
+        "enemy": [
+          "Kroagnon"
+        ],
+        "doctor": [
+          "Sylvester McCoy"
+        ]
+      },
+      {
+        "episode": "146",
+        "title": "Delta and the Bannermen",
+        "companion": [
+          "Melanie Bush"
+        ],
+        "enemy": [
+          "Gavrok"
+        ],
+        "doctor": [
+          "Sylvester McCoy"
+        ]
+      },
+      {
+        "episode": "147",
+        "title": "Dragonfire",
+        "companion": [
+          "Melanie Bush",
+          "Ace"
+        ],
+        "enemy": [
+          "Kane"
+        ],
+        "doctor": [
+          "Sylvester McCoy"
+        ]
+      }
+    ]
+  },
+  {
+    "season23": [
+      {
+        "episode": "143",
+        "title": "The Mysterious Planet",
+        "companion": [
+          "Peri Brown"
+        ],
+        "doctor": [
+          "Colin Baker"
+        ]
+      },
+      {
+        "episode": "143",
+        "title": "Mindwarp",
+        "companion": [
+          "Peri Brown"
+        ],
+        "doctor": [
+          "Colin Baker"
+        ]
+      },
+      {
+        "episode": "143",
+        "title": "Terror of the Vervoids",
+        "companion": [
+          "Melanie Bush"
+        ],
+        "doctor": [
+          "Colin Baker"
+        ]
+      },
+      {
+        "episode": "143",
+        "title": "The Ultimate Foe",
+        "companion": [
+          "Melanie Bush"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "Colin Baker"
+        ]
+      }
+    ]
+  },
+  {
+    "season22": [
+      {
+        "episode": "136",
+        "title": "The Twin Dilemma",
+        "companion": [
+          "Peri Brown"
+        ],
+        "doctor": [
+          "Colin Baker"
+        ]
+      },
+      {
+        "episode": "137",
+        "title": "Attack of the Cybermen",
+        "companion": [
+          "Peri Brown"
+        ],
+        "doctor": [
+          "Colin Baker"
+        ]
+      },
+      {
+        "episode": "138",
+        "title": "Vengeance on Varos",
+        "companion": [
+          "Peri Brown"
+        ],
+        "doctor": [
+          "Colin Baker"
+        ]
+      },
+      {
+        "episode": "139",
+        "title": "The Mark of the Rani",
+        "companion": [
+          "Peri Brown"
+        ],
+        "enemy": [
+          "Master",
+          "Rani"
+        ],
+        "doctor": [
+          "Colin Baker"
+        ]
+      },
+      {
+        "episode": "140",
+        "title": "The Two Doctors",
+        "companion": [
+          "Peri Brown",
+          "Jamie McCrimmon"
+        ],
+        "enemy": [
+          "Shockeye",
+          "Chessene",
+          "Dastari"
+        ],
+        "enemySpecies": [
+          "Sontaran"
+        ],
+        "doctor": [
+          "Colin Baker",
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "141",
+        "title": "Timelash",
+        "companion": [
+          "Peri Brown"
+        ],
+        "enemy": [
+          "Borad"
+        ],
+        "doctor": [
+          "Colin Baker"
+        ]
+      },
+      {
+        "episode": "142",
+        "title": "Revelation of the Daleks",
+        "companion": [
+          "Peri Brown"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Colin Baker"
+        ]
+      }
+    ]
+  },
+  {
+    "season21": [
+      {
+        "episode": "130",
+        "title": "Warriors of the Deep",
+        "companion": [
+          "Tegan Jovanka",
+          "Vislor Turlough"
+        ],
+        "enemySpecies": [
+          "Silurian",
+          "Sea Devil"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "131",
+        "title": "The Awakening",
+        "companion": [
+          "Tegan Jovanka",
+          "Vislor Turlough"
+        ],
+        "enemy": [
+          "Malus"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "132",
+        "title": "Frontios",
+        "companion": [
+          "Tegan Jovanka",
+          "Vislor Turlough"
+        ],
+        "enemySpecies": [
+          "Tractator"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "133",
+        "title": "Resurrection of the Daleks",
+        "companion": [
+          "Tegan Jovanka",
+          "Vislor Turlough"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "134",
+        "title": "Planet of Fire",
+        "companion": [
+          "Tegan Jovanka",
+          "Vislor Turlough",
+          "Peri Brown"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "135",
+        "title": "The Caves of Androzani",
+        "companion": [
+          "Peri Brown"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "Peter Davison",
+          "Colin Baker"
+        ]
+      }
+    ]
+  },
+  {
+    "season20": [
+      {
+        "episode": "123",
+        "title": "Arc of Infinity",
+        "companion": [
+          "Nyssa",
+          "Tegan Jovanka"
+        ],
+        "enemy": [
+          "Omega"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "124",
+        "title": "Snakedance",
+        "companion": [
+          "Nyssa",
+          "Tegan Jovanka"
+        ],
+        "enemy": [
+          "Mara"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "125",
+        "title": "Mawdryn Undead",
+        "companion": [
+          "Nyssa",
+          "Tegan Jovanka",
+          "Vislor Turlough"
+        ],
+        "enemy": [
+          "Mawdryn",
+          "Black Guardian"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "126",
+        "title": "Terminus",
+        "companion": [
+          "Nyssa",
+          "Tegan Jovanka",
+          "Vislor Turlough"
+        ],
+        "enemy": [
+          "Vanir"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "127",
+        "title": "Enlightenment",
+        "companion": [
+          "Tegan Jovanka",
+          "Vislor Turlough"
+        ],
+        "enemy": [
+          "Black Guardian"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "128",
+        "title": "The King's Demons",
+        "companion": [
+          "Tegan Jovanka",
+          "Vislor Turlough",
+          "Kamelion"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      }
+    ]
+  },
+  {
+    "season19": [
+      {
+        "episode": "116",
+        "title": "Castrovalva",
+        "companion": [
+          "Adric",
+          "Nyssa",
+          "Tegan Jovanka"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "117",
+        "title": "Four to Doomsday",
+        "companion": [
+          "Adric",
+          "Nyssa",
+          "Tegan Jovanka"
+        ],
+        "enemy": [
+          "Monarch"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "118",
+        "title": "Kinda",
+        "companion": [
+          "Adric",
+          "Nyssa",
+          "Tegan Jovanka"
+        ],
+        "enemy": [
+          "Mara"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "119",
+        "title": "The Visitation",
+        "companion": [
+          "Adric",
+          "Nyssa",
+          "Tegan Jovanka"
+        ],
+        "enemy": [
+          "Terileptils"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "120",
+        "title": "Black Orchid",
+        "companion": [
+          "Adric",
+          "Nyssa",
+          "Tegan Jovanka"
+        ],
+        "enemy": [
+          "George Cranleigh"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "121",
+        "title": "Earthshock",
+        "companion": [
+          "Adric",
+          "Nyssa",
+          "Tegan Jovanka"
+        ],
+        "enemySpecies": [
+          "Cyberman"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      },
+      {
+        "episode": "122",
+        "title": "Time-Flight",
+        "companion": [
+          "Nyssa",
+          "Tegan Jovanka"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "Peter Davison"
+        ]
+      }
+    ]
+  },
+  {
+    "season18": [
+      {
+        "episode": "109",
+        "title": "The Leisure Hive",
+        "companion": [
+          "Romana",
+          "K9"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "110",
+        "title": "Meglos",
+        "companion": [
+          "Romana",
+          "K9"
+        ],
+        "enemy": [
+          "Meglos"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "111",
+        "title": "Full Circle",
+        "companion": [
+          "Romana",
+          "K9",
+          "Adric"
+        ],
+        "enemySpecies": [
+          "Marshman"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "112",
+        "title": "State of Decay",
+        "companion": [
+          "Romana",
+          "K9",
+          "Adric"
+        ],
+        "enemy": [
+          "Zargo",
+          "Camilla",
+          "Aukon"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "113",
+        "title": "Warriors' Gate",
+        "companion": [
+          "Romana",
+          "K9",
+          "Adric"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "114",
+        "title": "The Keeper of Traken",
+        "companion": [
+          "Adric"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "115",
+        "title": "Logopolis",
+        "companion": [
+          "Adric",
+          "Nyssa",
+          "Tegan Jovanka"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      }
+    ]
+  },
+  {
+    "season17": [
+      {
+        "episode": "104",
+        "title": "Destiny of the Daleks",
+        "companion": [
+          "Romana"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "105",
+        "title": "City of Death",
+        "companion": [
+          "Romana"
+        ],
+        "enemy": [
+          "Scaroth"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "106",
+        "title": "The Creature from the Pit",
+        "companion": [
+          "Romana",
+          "K9"
+        ],
+        "enemy": [
+          "Erato",
+          "Lady Adrasta"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "107",
+        "title": "Nightmare of Eden",
+        "companion": [
+          "Romana",
+          "K9"
+        ],
+        "enemySpecies": [
+          "Mandrel"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "108",
+        "title": "The Horns of Nimon",
+        "companion": [
+          "Romana",
+          "K9"
+        ],
+        "enemySpecies": [
+          "Nimon"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      }
+    ]
+  },
+  {
+    "season16": [
+      {
+        "episode": "98",
+        "title": "The Ribos Operation",
+        "companion": [
+          "Romana",
+          "K9"
+        ],
+        "enemy": [
+          "Graff Vynda-K",
+          "Black Guardian"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "99",
+        "title": "The Pirate Planet",
+        "companion": [
+          "Romana",
+          "K9"
+        ],
+        "enemy": [
+          "Pirate Captain"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "100",
+        "title": "The Stones of Blood",
+        "companion": [
+          "Romana",
+          "K9"
+        ],
+        "enemy": [
+          "de Vries"
+        ],
+        "enemySpecies": [
+          "Ogri"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "101",
+        "title": "The Androids of Tara",
+        "companion": [
+          "Romana",
+          "K9"
+        ],
+        "enemy": [
+          "Count Grendel of Gracht"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "102",
+        "title": "The Power of Kroll",
+        "companion": [
+          "Romana"
+        ],
+        "enemy": [
+          "Kroll"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "103",
+        "title": "The Armageddon Factor",
+        "companion": [
+          "Romana",
+          "K9"
+        ],
+        "enemy": [
+          "The Shadow",
+          "Black Guardian"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      }
+    ]
+  },
+  {
+    "season15": [
+      {
+        "episode": "92",
+        "title": "Horror of Fang Rock",
+        "companion": [
+          "Leela"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "93",
+        "title": "The Invisible Enemy",
+        "companion": [
+          "Leela",
+          "K9"
+        ],
+        "enemy": [
+          "Nucleus"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "94",
+        "title": "Image of the Fendahl",
+        "companion": [
+          "Leela"
+        ],
+        "enemy": [
+          "Fendahl"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "95",
+        "title": "The Sun Makers",
+        "companion": [
+          "Leela",
+          "K9"
+        ],
+        "enemy": [
+          "Collector"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "96",
+        "title": "Underworld",
+        "companion": [
+          "Leela",
+          "K9"
+        ],
+        "enemy": [
+          "Oracle"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "97",
+        "title": "The Invasion of Time",
+        "companion": [
+          "Leela",
+          "K9"
+        ],
+        "enemySpecies": [
+          "Sontaran"
+        ],
+        "enemy": [
+          "Stor"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      }
+    ]
+  },
+  {
+    "season14": [
+      {
+        "episode": "86",
+        "title": "The Masque of Mandragora",
+        "companion": [
+          "Sarah Jane Smith"
+        ],
+        "enemy": [
+          "Count Federico",
+          "Captain Rossini"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "87",
+        "title": "The Hand of Fear",
+        "companion": [
+          "Sarah Jane Smith"
+        ],
+        "enemy": [
+          "Eldrad"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "88",
+        "title": "The Deadly Assassin",
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "89",
+        "title": "The Face of Evil",
+        "companion": [
+          "Leela"
+        ],
+        "enemy": [
+          "Xoanon"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "90",
+        "title": "The Robots of Death",
+        "companion": [
+          "Leela"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "91",
+        "title": "The Talons of Weng-Chiang",
+        "companion": [
+          "Leela"
+        ],
+        "enemy": [
+          "Li H'sen Chang"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      }
+    ]
+  },
+  {
+    "season13": [
+      {
+        "episode": "80",
+        "title": "Terror of the Zygons",
+        "companion": [
+          "Sarah Jane Smith",
+          "Harry Sullivan"
+        ],
+        "enemy": [
+          "Skarasen"
+        ],
+        "enemySpecies": [
+          "Zygon"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "81",
+        "title": "Planet of Evil",
+        "companion": [
+          "Sarah Jane Smith"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "82",
+        "title": "Pyramids of Mars",
+        "companion": [
+          "Sarah Jane Smith"
+        ],
+        "enemy": [
+          "Sutekh"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "83",
+        "title": "The Android Invasion",
+        "companion": [
+          "Sarah Jane Smith"
+        ],
+        "enemySpecies": [
+          "Android"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "84",
+        "title": "The Brain of Morbius",
+        "companion": [
+          "Sarah Jane Smith"
+        ],
+        "enemy": [
+          "Morbius",
+          "Doctor Solon"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "85",
+        "title": "The Seeds of Doom",
+        "companion": [
+          "Sarah Jane Smith"
+        ],
+        "enemy": [
+          "Harrison Chase"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      }
+    ]
+  },
+  {
+    "season12": [
+      {
+        "episode": "75",
+        "title": "Robot",
+        "companion": [
+          "Sarah Jane Smith",
+          "Harry Sullivan"
+        ],
+        "enemy": [
+          "K1 Robot"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "76",
+        "title": "The Ark in Space",
+        "companion": [
+          "Sarah Jane Smith",
+          "Harry Sullivan"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "77",
+        "title": "The Sontaran Experiment",
+        "companion": [
+          "Sarah Jane Smith",
+          "Harry Sullivan"
+        ],
+        "enemy": [
+          "Styre"
+        ],
+        "enemySpecies": [
+          "Sontaran"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "78",
+        "title": "Genesis of the Daleks",
+        "companion": [
+          "Sarah Jane Smith",
+          "Harry Sullivan"
+        ],
+        "enemy": [
+          "Davros"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      },
+      {
+        "episode": "79",
+        "title": "Revenge of the Cybermen",
+        "companion": [
+          "Sarah Jane Smith",
+          "Harry Sullivan"
+        ],
+        "enemy": [
+          "Cyberleader"
+        ],
+        "enemySpecies": [
+          "Cyberman"
+        ],
+        "doctor": [
+          "Tom Baker"
+        ]
+      }
+    ]
+  },
+  {
+    "season11": [
+      {
+        "episode": "70",
+        "title": "The Time Warrior",
+        "companion": [
+          "Sarah Jane Smith"
+        ],
+        "enemy": [
+          "Linx"
+        ],
+        "enemySpecies": [
+          "Sontaran"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "71",
+        "title": "Invasion of the Dinosaurs",
+        "companion": [
+          "Sarah Jane Smith"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "72",
+        "title": "Death to the Daleks",
+        "companion": [
+          "Sarah Jane Smith"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "73",
+        "title": "The Monster of Peladon",
+        "companion": [
+          "Sarah Jane Smith"
+        ],
+        "enemy": [
+          "Chancellor Ortron"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "74",
+        "title": "Planet of the Spiders",
+        "companion": [
+          "Sarah Jane Smith"
+        ],
+        "doctor": [
+          "Jon Pertwee",
+          "Tom Baker"
+        ]
+      }
+    ]
+  },
+  {
+    "season10": [
+      {
+        "episode": "65",
+        "title": "The Three Doctors",
+        "companion": [
+          "Jo Grant"
+        ],
+        "enemy": [
+          "Omega"
+        ],
+        "doctor": [
+          "Jon Pertwee",
+          "Patrick Troughton",
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "66",
+        "title": "Carnival of Monsters",
+        "companion": [
+          "Jo Grant"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "67",
+        "title": "Frontier in Space",
+        "companion": [
+          "Jo Grant"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "68",
+        "title": "Planet of the Daleks",
+        "companion": [
+          "Jo Grant"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "69",
+        "title": "The Green Death",
+        "companion": [
+          "Jo Grant"
+        ],
+        "enemy": [
+          "BOSS"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      }
+    ]
+  },
+  {
+    "season09": [
+      {
+        "episode": "60",
+        "title": "Day of the Daleks",
+        "companion": [
+          "Jo Grant"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "61",
+        "title": "The Curse of Peladon",
+        "companion": [
+          "Jo Grant"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "62",
+        "title": "The Sea Devils",
+        "companion": [
+          "Jo Grant"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "enemySpecies": [
+          "Sea Devil"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "63",
+        "title": "The Mutants",
+        "enemy": [
+          "The Marshal"
+        ],
+        "companion": [
+          "Jo Grant"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "64",
+        "title": "The Time Monster",
+        "enemy": [
+          "Master"
+        ],
+        "companion": [
+          "Jo Grant"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      }
+    ]
+  },
+  {
+    "season08": [
+      {
+        "episode": "55",
+        "title": "Terror of the Autons",
+        "companion": [
+          "Jo Grant"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "enemySpecies": [
+          "Auton"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "56",
+        "title": "The Mind of Evil",
+        "companion": [
+          "Jo Grant"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "57",
+        "title": "The Claws of Axos",
+        "companion": [
+          "Jo Grant"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "enemySpecies": [
+          "Axon"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "58",
+        "title": "Colony in Space",
+        "companion": [
+          "Jo Grant"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "59",
+        "title": "The Daemons",
+        "companion": [
+          "Jo Grant"
+        ],
+        "enemy": [
+          "Bok",
+          "Master"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      }
+    ]
+  },
+  {
+    "season07": [
+      {
+        "episode": "51",
+        "title": "Spearhead from Space",
+        "companion": [
+          "Liz Shaw"
+        ],
+        "enemySpecies": [
+          "Auton"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "52",
+        "title": "Doctor Who and the Silurians",
+        "companion": [
+          "Liz Shaw"
+        ],
+        "enemySpecies": [
+          "Silurian"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "53",
+        "title": "The Ambassadors of Death",
+        "companion": [
+          "Liz Shaw"
+        ],
+        "enemy": [
+          "Reegan"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      },
+      {
+        "episode": "54",
+        "title": "Inferno",
+        "companion": [
+          "Liz Shaw"
+        ],
+        "doctor": [
+          "Jon Pertwee"
+        ]
+      }
+    ]
+  },
+  {
+    "season06": [
+      {
+        "episode": "44",
+        "title": "The Dominators",
+        "companion": [
+          "Jamie McCrimmon",
+          "Zoe Heriot"
+        ],
+        "enemySpecies": [
+          "Dominator",
+          "Quark"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "45",
+        "title": "The Mind Robber",
+        "companion": [
+          "Jamie McCrimmon",
+          "Zoe Heriot"
+        ],
+        "enemy": [
+          "Master"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "46",
+        "title": "The Invasion",
+        "companion": [
+          "Jamie McCrimmon",
+          "Zoe Heriot"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "47",
+        "title": "The Krotons",
+        "companion": [
+          "Jamie McCrimmon",
+          "Zoe Heriot"
+        ],
+        "enemySpecies": [
+          "Kroton"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "48",
+        "title": "The Seeds of Death",
+        "companion": [
+          "Jamie McCrimmon",
+          "Zoe Heriot"
+        ],
+        "enemySpecies": [
+          "Ice Warrior"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "49",
+        "title": "The Space Pirates",
+        "companion": [
+          "Jamie McCrimmon",
+          "Zoe Heriot"
+        ],
+        "enemy": [
+          "Caven",
+          "Dervish"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "50",
+        "title": "The War Games",
+        "companion": [
+          "Jamie McCrimmon",
+          "Zoe Heriot"
+        ],
+        "enemy": [
+          "War Chief"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      }
+    ]
+  },
+  {
+    "season05": [
+      {
+        "episode": "37",
+        "title": "The Tomb of the Cybermen",
+        "companion": [
+          "Jamie McCrimmon",
+          "Victoria Waterfield"
+        ],
+        "enemySpecies": [
+          "Cyberman"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "38",
+        "title": "The Abominable Snowmen",
+        "companion": [
+          "Jamie McCrimmon",
+          "Victoria Waterfield"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "39",
+        "title": "The Ice Warriors",
+        "companion": [
+          "Jamie McCrimmon",
+          "Victoria Waterfield"
+        ],
+        "enemySpecies": [
+          "Ice Warrior"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "40",
+        "title": "The Enemy of the World",
+        "companion": [
+          "Jamie McCrimmon",
+          "Victoria Waterfield"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "41",
+        "title": "The Web of Fear",
+        "companion": [
+          "Jamie McCrimmon",
+          "Victoria Waterfield"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "42",
+        "title": "Fury from the Deep",
+        "companion": [
+          "Jamie McCrimmon",
+          "Victoria Waterfield"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "43",
+        "title": "The Wheel in Space",
+        "companion": [
+          "Jamie McCrimmon",
+          "Victoria Waterfield"
+        ],
+        "enemySpecies": [
+          "Cyberman"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      }
+    ]
+  },
+  {
+    "season04": [
+      {
+        "episode": "30",
+        "title": "The Power of the Daleks",
+        "companion": [
+          "Polly",
+          "Ben Jackson"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "31",
+        "title": "The Highlanders",
+        "companion": [
+          "Polly",
+          "Ben Jackson",
+          "Jamie McCrimmon"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "32",
+        "title": "The Underwater Menace",
+        "companion": [
+          "Polly",
+          "Ben Jackson",
+          "Jamie McCrimmon"
+        ],
+        "enemy": [
+          "Zaroff"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "33",
+        "title": "The Moonbase",
+        "companion": [
+          "Polly",
+          "Ben Jackson",
+          "Jamie McCrimmon"
+        ],
+        "enemySpecies": [
+          "Cyberman"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "34",
+        "title": "The Macra Terror",
+        "companion": [
+          "Polly",
+          "Ben Jackson",
+          "Jamie McCrimmon"
+        ],
+        "enemySpecies": [
+          "Macra"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "35",
+        "title": "The Faceless Ones",
+        "companion": [
+          "Polly",
+          "Ben Jackson",
+          "Jamie McCrimmon"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      },
+      {
+        "episode": "36",
+        "title": "The Evil of the Daleks",
+        "companion": [
+          "Jamie McCrimmon",
+          "Victoria Waterfield"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "Patrick Troughton"
+        ]
+      }
+    ]
+  },
+  {
+    "season03": [
+      {
+        "episode": "18",
+        "title": "Galaxy 4",
+        "companion": [
+          "Vicki",
+          "Steven Taylor"
+        ],
+        "enemySpecies": [
+          "Drahvin"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "19",
+        "title": "Mission to the Unknown"
+      },
+      {
+        "episode": "20",
+        "title": "The Myth Makers",
+        "companion": [
+          "Vicki",
+          "Steven Taylor",
+          "Katarina"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "21",
+        "title": "The Daleks' Master Plan",
+        "companion": [
+          "Steven Taylor",
+          "Katarina",
+          "Sara Kingdom"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "22",
+        "title": "The Massacre of St Bartholomew's Eve",
+        "companion": [
+          "Dodo Chaplet",
+          "Steven Taylor"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "23",
+        "title": "The Ark",
+        "companion": [
+          "Dodo Chaplet",
+          "Steven Taylor"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "24",
+        "title": "The Celestial Toymaker",
+        "companion": [
+          "Dodo Chaplet",
+          "Steven Taylor"
+        ],
+        "enemy": [
+          "The Toymaker"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "25",
+        "title": "The Gunfighters",
+        "companion": [
+          "Dodo Chaplet",
+          "Steven Taylor"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "26",
+        "title": "The Savages",
+        "companion": [
+          "Dodo Chaplet",
+          "Steven Taylor"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "27",
+        "title": "The War Machines",
+        "companion": [
+          "Dodo Chaplet",
+          "Steven Taylor",
+          "Polly"
+        ],
+        "enemy": [
+          "WOTAN"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "28",
+        "title": "The Smugglers",
+        "companion": [
+          "Polly",
+          "Ben Jackson"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "29",
+        "title": "The Tenth Planet",
+        "companion": [
+          "Polly",
+          "Ben Jackson"
+        ],
+        "enemySpecies": [
+          "Cyberman"
+        ],
+        "doctor": [
+          "William Hartnell",
+          "Patrick Troughton"
+        ]
+      }
+    ]
+  },
+  {
+    "season02": [
+      {
+        "episode": "9",
+        "title": "Planet of Giants",
+        "companion": [
+          "Susan Foreman",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "10",
+        "title": "The Dalek Invasion of Earth",
+        "companion": [
+          "Susan Foreman",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "11",
+        "title": "The Rescue",
+        "companion": [
+          "Vicki",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "12",
+        "title": "The Romans",
+        "companion": [
+          "Vicki",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "13",
+        "title": "The Web Planet",
+        "companion": [
+          "Susan Foreman",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "14",
+        "title": "The Crusade",
+        "companion": [
+          "Susan Foreman",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "15",
+        "title": "The Space Museum",
+        "companion": [
+          "Susan Foreman",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "16",
+        "title": "The Chase",
+        "companion": [
+          "Susan Foreman",
+          "Ian Chesterton",
+          "Barbara Wright",
+          "Steven Taylor"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "17",
+        "title": "The Time Meddler",
+        "companion": [
+          "Vicki",
+          "Steven Taylor"
+        ],
+        "enemy": [
+          "Meddling Monk"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      }
+    ]
+  },
+  {
+    "season01": [
+      {
+        "episode": "1",
+        "title": "An Unearthly Child",
+        "companion": [
+          "Susan Foreman",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "enemy": [
+          "Stone Age Tribe"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "2",
+        "title": "The Daleks",
+        "companion": [
+          "Susan Foreman",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "enemySpecies": [
+          "Dalek"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "3",
+        "title": "The Edge of Destruction",
+        "companion": [
+          "Susan Foreman",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "4",
+        "title": "Marco Polo",
+        "companion": [
+          "Susan Foreman",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "enemy": [
+          "Tegana"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "5",
+        "title": "The Keys of Marinus",
+        "companion": [
+          "Susan Foreman",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "enemy": [
+          "Yartek"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "6",
+        "title": "The Aztecs",
+        "companion": [
+          "Susan Foreman",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "enemy": [
+          "Tlotoxl"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "7",
+        "title": "The Sensorites",
+        "companion": [
+          "Susan Foreman",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "enemySpecies": [
+          "Sensorite"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      },
+      {
+        "episode": "8",
+        "title": "The Reign of Terror",
+        "companion": [
+          "Susan Foreman",
+          "Ian Chesterton",
+          "Barbara Wright"
+        ],
+        "enemy": [
+          "Napoleon"
+        ],
+        "doctor": [
+          "William Hartnell"
+        ]
+      }
+    ]
+  }
+]
